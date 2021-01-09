@@ -1,3 +1,3 @@
 # widgetcomponent
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/widgetcomponent)
+Some widget components using ReactHooks
